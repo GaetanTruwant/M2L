@@ -17,7 +17,7 @@ Ce projet a été réalisé dans le cadre d'un **projet de classe de 1SIO en opt
 
 | **Étape**             | **Action à réaliser**                                                                 |
 |------------------------|---------------------------------------------------------------------------------------|
-| **Cloner le dépôt**    | `git clone https://github.com/MatheoPUEL/M2L.git`                                     |
+| **Cloner le dépôt**    | `git clone https://github.com/GaetanTruwant/M2L.git`                                     |
 | **Lancer les serveurs**| Démarrer les services **Apache** et **MySQL**                                         |
 | **Importer la base**   | Importer le fichier `.SQL` disponible dans la documentation via l'interface de PHPMyAdmin    |
 | **Accéder au site**    | Rendez-vous sur [https://localhost/](https://localhost/)                              |
@@ -118,6 +118,7 @@ Documents
 - **MARTIN Noah**  
 
 --- 
+
 
 
 
